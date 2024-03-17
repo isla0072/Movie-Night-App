@@ -23,7 +23,7 @@ Developed as part of the final project for the Multi-Platform Mobile App Develop
 To run the app, clone the repository and open it in your Flutter development environment. Ensure you have Flutter and Dart installed and set up.
 
 ```bash
-git clone <https://github.com/isla0072/Movie-Night-App>
+git clone https://github.com/isla0072/Movie-Night-App
 cd movie-night-app
 flutter pub get
 flutter run
